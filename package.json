@@ -83,7 +83,7 @@
     "@angular/service-worker": "^9.0.6",
     "@types/prismjs": "^1.16.0",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.11.0",
+    "class-validator": "github:kepelrs/class-validator#built",
     "core-js": "^3.6.4",
     "lodash-es": "^4.17.15",
     "lodash.clonedeep": "^4.5.0",
